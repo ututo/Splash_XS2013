@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Splash_XS2013 theme
+Description=XS2013 plymounth theme
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/Splash_XS2013
+ScriptFile=/lib/plymouth/themes/Splash_XS2013/mdv.script
